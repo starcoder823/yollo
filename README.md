@@ -17,6 +17,5 @@ python test.py
 ```
 
 (For the test, 
-- added test image
-- downloaded dataset and model for yollo v11
+- downloaded the dataset and model for yollo v11
 )
